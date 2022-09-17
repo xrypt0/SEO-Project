@@ -16,8 +16,8 @@ Thanks to SEO, companies can profit more from their online transactions and disq
 
 1-) First of all, Google Chrome must be installed on your computer.
 
-2-) Install the Selenium library by typing pip3 install selenium on your terminal screen.
+2-) Install the Selenium library by typing ```pip3 install selenium``` on your terminal screen.
 
-3-) Create a file named 'report.txt' to the location where the program is installed.
+3-) Create a file named `report.txt` to the location where the program is installed.
 
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
