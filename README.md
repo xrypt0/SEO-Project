@@ -10,8 +10,6 @@ SEO stands for “search engine optimization.” In simple terms, it means the p
 
 Thanks to SEO, companies can profit more from their online transactions and disqualify rival companies against them.
 
-![image](https://user-images.githubusercontent.com/42627045/190855112-7f7c262e-30d4-40ff-94d9-dc2830edbb24.png)
-
 # How To Use ?
 
 1-) First of all, Google Chrome must be installed on your computer.
@@ -21,3 +19,5 @@ Thanks to SEO, companies can profit more from their online transactions and disq
 3-) Create a file named `report.txt` to the location where the program is installed.
 
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
+
+![image](https://user-images.githubusercontent.com/42627045/190855112-7f7c262e-30d4-40ff-94d9-dc2830edbb24.png)
