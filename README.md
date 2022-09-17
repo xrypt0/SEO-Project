@@ -4,7 +4,7 @@ A simple benchmarking SEO tool written in Python.
 ![image](https://user-images.githubusercontent.com/42627045/190852671-984c8e98-584b-4f76-ae18-8ab0a32cfce7.png)
 
 
-#What Is The SEO ?
+# What Is The SEO ?
 
 SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines.
 
