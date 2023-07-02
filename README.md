@@ -16,8 +16,13 @@ Thanks to SEO, companies can profit more from their online transactions and disq
 
 2-) Install the Selenium library by typing ```pip3 install selenium``` on your terminal screen.
 
-3-) Create a file named `report.txt` to the location where the program is installed.
+3-) Create a file named `report.txt` to the loca![Screenshot_1](https://github.com/xrypt0/SEO-Project/assets/42627045/13a6d1e7-49d0-4c2f-b9c0-69ab93ca0020)
+tion where the program is installed.
 
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
 
+
+![test](https://github.com/xrypt0/SEO-Project/assets/42627045/36f6d6c3-dd57-47bb-8f43-4ddb43218ed2)
+
 ![image](https://user-images.githubusercontent.com/42627045/190855112-7f7c262e-30d4-40ff-94d9-dc2830edbb24.png)
+
