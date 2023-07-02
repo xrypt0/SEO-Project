@@ -22,7 +22,7 @@ tion where the program is installed.
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
 
 
-![test](https://github.com/xrypt0/SEO-Project/assets/42627045/36f6d6c3-dd57-47bb-8f43-4ddb43218ed2)
+![Screenshot_1](https://github.com/xrypt0/SEO-Project/assets/42627045/cff0a8a7-5f23-4c6b-a48c-d7b2a2b931c1)
+![test](https://github.com/xrypt0/SEO-Project/assets/42627045/58c19d4b-d697-4576-b40f-4589e6a8d930)
 
-![image](https://user-images.githubusercontent.com/42627045/190855112-7f7c262e-30d4-40ff-94d9-dc2830edbb24.png)
 
