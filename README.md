@@ -21,3 +21,4 @@ Thanks to SEO, companies can profit more from their online transactions and disq
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
 
 
+![cbimage](https://github.com/xrypt0/SEO-Project/assets/42627045/f5dce330-8c63-47a5-843c-a31cf8ad22e6)
