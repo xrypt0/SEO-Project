@@ -1,3 +1,4 @@
+![test](![svgcsp](https://github.com/xrypt0/SEO-Project/assets/42627045/e8316cb3-bb61-4f0d-aee7-8e997ee85014))
 # SEO-Project
 A simple benchmarking SEO tool written in Python. The program extracts and compares the values of the sites you enter for you (the data is pulled from Google PageSpeed Insights when comparing). It saves the results in a TXT file and presents you with the expressions greater (>) and less than (<) which site is better or not.
 
