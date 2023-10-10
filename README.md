@@ -1,4 +1,4 @@
- # SEO-Project
+# SEO-Project
 A simple benchmarking SEO tool written in Python. The program extracts and compares the values of the sites you enter for you (the data is pulled from Google PageSpeed Insights when comparing). It saves the results in a TXT file and presents you with the expressions greater (>) and less than (<) which site is better or not.
 
 ![image](https://user-images.githubusercontent.com/42627045/190852671-984c8e98-584b-4f76-ae18-8ab0a32cfce7.png)
