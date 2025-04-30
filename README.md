@@ -20,3 +20,4 @@ Thanks to SEO, companies can profit more from their online transactions and disq
 4-) You can now compare your websites! The results will be saved in the file named 'report.txt' in the location where the program is installed.
 
 
+**No APIs were used in this project. It's a basic project built using XPath**
